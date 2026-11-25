@@ -192,6 +192,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Grim Dawn · Updated 2026-11-24 · Shared under the MIT License*
+*Grim Dawn · Updated 2026-11-25 · Shared under the MIT License*
 
-<!-- rev 2026-11-24 -->
+<!-- rev 2026-11-25 -->
